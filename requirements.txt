@@ -5,6 +5,7 @@ django-bootstrap3==11.0.0
 django-heroku==0.3.1
 django-registration==2.4.1
 Pillow==6.0.0
+python-decouple==3.1
 psycopg2==2.8.2
 pytz==2019.1
 sqlparse==0.3.0
