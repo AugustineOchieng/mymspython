@@ -33,7 +33,7 @@ STATICFILES_DIRS = (
 
 # SECURITY WARNING: keep the secret key used in production secret!
 MODE = config("MODE",default="dev")
-SECRET_KEY = config('prip#b3)p(b-o)!=krwg9rk@+ak_5&=@gbn)_ddgg)g%l&qe=g')
+SECRET_KEY = config('SECRET_KEY')
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
